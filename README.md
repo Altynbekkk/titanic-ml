@@ -15,7 +15,7 @@ Random Forest / Gradient Boosting
 - Title
 
 ## Result
-Kaggle score: 0.76
+Kaggle score: 0.78
 
 ## Libraries
 - pandas
